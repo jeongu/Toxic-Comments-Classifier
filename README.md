@@ -1,5 +1,5 @@
 # Cyber-Bullying Comments Classifier
-악성 댓글 분류기 개발
+7th BOAZ BIG DATA CONFERENCE에서 발표한 프로젝트
 
 ### 데이터
 데이터와 크롤링 코드는 저작권 문제가 있어 커밋하지 않았습니다.
