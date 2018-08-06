@@ -1,4 +1,4 @@
-# Cyber-Bullying Comments Classifier
+# Toxic Comments Classifier
 7th BOAZ BIG DATA CONFERENCE에서 발표한 프로젝트
 
 ### 데이터
