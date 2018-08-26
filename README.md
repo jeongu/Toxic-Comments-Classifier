@@ -8,7 +8,7 @@
 * Comment : 네이버 뉴스 댓글(댓글, 작성일시, 좋아요, 싫어요)
 
 ### 코드
-(아직 코드 정리 작업이 필요합니다.)
+(코드 정리 작업이 필요합니다.)
 * Text Preprocessing with Doc2vec
 * ML
 * PyQT
